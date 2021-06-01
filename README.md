@@ -14,7 +14,6 @@ I'm an aspiring software enginer based in Toronto, Canada. I'm a Data Analyst by
 🃏 **Matching Card Game** is a browser based game with a multiplication twist. Match the same cards. When there is a correct match, the user will solve a multiplication problem and will receive extra points. 
 
 Technologies Used: HTML, CSS, JavaScript
-
 💻[Code](https://github.com/angelamchoi/card-game)  🔗[Launch](https://angelamchoi.github.io/card-game/)
 
 
