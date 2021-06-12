@@ -3,7 +3,7 @@ I'm an aspiring software enginer based in Toronto, Canada. I'm a Data Analyst by
 
 
 - 🔭 I’m currently working on plutonotes, a web app for sharing class notes using Node.js, Express, and MongoDB.
-- 🌱 I’m currently learning SQL & Python.
+- 🌱 I’m currently learning SQL, Python & Django.
 - 👯 I’m looking to collaborate on any education or social justice related projects.
 - 💬 Ask me about founding an edtech startup and changing careers.
 - 📫 How to reach me: angelamchoi@gmail.com
