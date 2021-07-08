@@ -8,7 +8,7 @@ I'm an aspiring software enginer based in Toronto, Canada. I'm a Data Analyst by
 - 💬 Ask me about founding an edtech startup and changing careers.
 - 📫 How to reach me: angelamchoi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to box!
+- ⚡ Fun fact: I love to box and play soccer!
 
 ### Projects I'm proud of
 🃏 **Matching Card Game** is a browser based game with a multiplication twist. Match the same cards. When there is a correct match, the user will solve a multiplication problem and will receive extra points. 
