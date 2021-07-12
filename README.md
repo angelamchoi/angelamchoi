@@ -23,6 +23,12 @@ Technologies Used: HTML, CSS, JavaScript, Node.js ,Express , EJS templates, Mong
 
 💻[Code](https://github.com/angelamchoi/plutonotes)  🔗[Launch](https://plutonotes.herokuapp.com/)
 
+📝**gamebreak** is a web application that allows you to discover and track your nintendo video games.
+
+Technologies Used:  HTML, CSS, JavaScript, Python, Django, PostgreSQL, Materialize CSS, Authentication, AWS S3 storage, Hosted on Heroku
+
+💻[Code](https://github.com/angelamchoi/gamebreak)  🔗[Launch](https://gamebreakk.herokuapp.com/)
+
 
 <!--
 **angelamchoi/angelamchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
