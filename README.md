@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Angela! 
-I'm an aspiring software enginer based in Toronto, Canada. I'm a Data Analyst by day, and a software engineering student by night. Prior to becoming a Data Analyst, I was a special education math teacher in NYC. I want to use my tech skills to help build education products for students and teachers.
+I'm currently based in Toronto, Canada. I'm a Data Analyst by day, and a software engineering student by night. Prior to becoming a Data Analyst, I was a special education math teacher in NYC. I want to use my tech skills to help build education products for students and teachers.
 
 
 - 🔭 I’m currently working on quizzify, a full stack react trivia app. I'm using Node.js, React, Javascript, and Trivia API. 
