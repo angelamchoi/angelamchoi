@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Angela! 
-I'm currently based in Toronto, Canada. I'm a Web Development Instructor at Concordia Bootcamp. Previously, I was a math teacher in NYC and a startup founder at Frip App.
+I'm currently based in Toronto, Canada. I'm an E-Learning Systems Manager & Developer at Blyth Academy Online and an Web Development Instructor at Concordia Bootcamp. Previously, I was a math teacher in NYC and a startup founder at Frip App.
 
 - 🔭 I’m currently working on quizzify, a full stack react trivia app. I'm using Node.js, React, Javascript, and Trivia API. 
 - 🌱 I’m currently learning React.
