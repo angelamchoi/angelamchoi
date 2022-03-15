@@ -1,8 +1,7 @@
 ### 👋 Hi, I'm Angela! 
 I'm currently based in Toronto, Canada. I'm an E-Learning Systems Manager & Developer by day, Web Dev Instructor by night. Previously, I was a math teacher in NYC and a startup founder at Frip App.
 
-- 🔭 I’m currently working on quizzify, a full stack react trivia app. I'm using Node.js, React, Javascript, and Trivia API. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React & Redux.
 - 👯 I’m looking to collaborate on any education or social justice related projects.
 - 💬 Ask me about founding an edtech startup and changing careers.
 - 📫 How to reach me: angelamchoi@gmail.com
