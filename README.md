@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Angela! 
-I'm currently based in Toronto, Canada. I'm an E-Learning Systems Manager & Developer by day, Web Dev Instructor by night. Previously, I was a math teacher in NYC and a startup founder at Frip App.
+I'm currently based in Toronto, Canada. I'm a Software Developer at BiteSite by day, Web Dev Instructor at Concordia University by night. Previously, I was a math teacher in NYC and a startup founder at Frip App.
 
 - 🌱 I’m currently learning React & Redux.
 - 👯 I’m looking to collaborate on any education or social justice related projects.
