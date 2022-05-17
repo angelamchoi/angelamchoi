@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Angela! 
 I'm currently based in Toronto, Canada. I'm a Software Developer at BiteSite by day, Web Dev Instructor at Concordia University by night. Previously, I was a math teacher in NYC and a startup founder at Frip App.
 
-- 🌱 I’m currently learning React & Redux.
+- 🌱 I’m currently learning Ruby & Ruby on Rails.
 - 👯 I’m looking to collaborate on any education or social justice related projects.
 - 💬 Ask me about founding an edtech startup and changing careers.
 - 📫 How to reach me: angelamchoi@gmail.com
