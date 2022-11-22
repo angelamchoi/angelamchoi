@@ -1,4 +1,4 @@
-## Hey 👋, I'm Angela!  
+## 👋Hi, I'm Angela!  
   
 
 <a href="https://github.com/angelamchoi" target="_blank">
