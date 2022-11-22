@@ -109,5 +109,4 @@ I'm a Software Developer based in Toronto, Canada. I primarily program in React 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
