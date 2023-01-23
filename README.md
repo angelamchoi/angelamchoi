@@ -1,28 +1,29 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div> 
+
+<br/> 
+
 ## 👋Hi, I'm Angela!  
-  
 
 <a href="https://github.com/angelamchoi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 </a>
 <a href="https://twitter.com/angelamchoi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/angelamchoi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
+</a> 
 
 
 ### Glad to see you here!  
 I'm a Software Developer based in Toronto, Canada. I primarily program in React and Ruby on Rails. Previously, I was a math teacher in New York City. I enjoy the process of creating and building. My interests in software development are accessibility and cybersecurity.  
-  
 
 <br/>  
-
-
+  
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<td valign="top" width="100%">
 
 - 🐱‍💻 I’m currently working at [BiteSite](https://www.bitesite.ca/) 
   
@@ -39,14 +40,9 @@ I'm a Software Developer based in Toronto, Canada. I primarily program in React 
 - ⚡ Fun fact: I founded a startup company called Frip App, helping teachers discover and book field trips in NYC.  
 
 
-</td><td valign="top" width="50%">
+<td valign="top" width="100%"> 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+</td> 
 
 <br/>  
 
