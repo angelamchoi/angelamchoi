@@ -1,12 +1,10 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!%F0%9F%8C%8E+;Hi%2C+I'm+Angela%F0%9F%91%8B;I'm+a+Software+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!+%F0%9F%8C%8E;Hi%2C+I'm+Angela%F0%9F%91%8B;I'm+a+Software+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Coding+for+social+good%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 </div> 
 
 
 <br/> 
-
-## 👋Hi, I'm Angela!  
 
 <a href="https://github.com/angelamchoi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
@@ -19,7 +17,7 @@
 </a> 
 
 
-### Glad to see you here!  
+### Nice to meet you!👋  
 I'm a Software Developer based in Toronto, Canada. I primarily program in React and Ruby on Rails. Previously, I was a math teacher in New York City. I enjoy the process of creating and building. My interests in software development are accessibility and cybersecurity.  
 
 <br/>  
@@ -84,7 +82,7 @@ I'm a Software Developer based in Toronto, Canada. I primarily program in React 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelamchoi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=angelamchoi&show_icons=true&count_private=true&hide_border=true&theme=panda" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
