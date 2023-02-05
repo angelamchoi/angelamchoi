@@ -25,8 +25,11 @@ I'm a Software Developer based in Toronto, Canada. I primarily program in React 
 ## Rapidfire  
 <td valign="top" width="100%">
 
-- 🐱‍💻 I’m currently working at [BiteSite](https://www.bitesite.ca/) 
+- 🐱‍💻 I’m currently working at [BiteSite](https://www.bitesite.ca/)
   
+
+- 💎 I am a member and open source contributer at wnb.rb(https://www.wnb-rb.dev/)
+
   
 - ❤️ Occasionally, I teach Web Dev at my fav nonprofit [America On Teach](https://www.americaontech.org/)
   
