@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!%F0%9F%8C%8E+;Hi%2C+I'm+Angela%F0%9F%91%8B;I'm+a+Software+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </div> 
+
 
 <br/> 
 
