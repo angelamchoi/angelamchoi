@@ -18,14 +18,14 @@
 
 
 ### Nice to meet you!👋  
-I'm a Software Developer based in Toronto, Canada. I primarily program in React and Ruby on Rails. Previously, I was a math teacher in New York City. I enjoy the process of creating and building. My interests in software development are accessibility and cybersecurity.  
+I primarily program in React and Ruby on Rails. Previously, I was a math teacher in New York City. I enjoy the process of creating and building. My interests in software development are accessibility and cybersecurity.  
 
 <br/>  
   
 ## Rapidfire  
 <td valign="top" width="100%">
 
-- 👶I'm on parental leave taking care of my tiny human being and enjoying motherhood.
+- 👶I'm a mom to a tiny human being.
 
 - 🐱‍💻 Previously, I was a Software Developer at [BiteSite](https://www.bitesite.ca/)
   
